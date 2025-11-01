@@ -1,4 +1,4 @@
-## Hi there 👋 I'am Olena
+## Hi there, I'am Olena 👋 
 
 <!--
 **Alenushka2013/Alenushka2013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
