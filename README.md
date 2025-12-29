@@ -34,7 +34,7 @@ Here are the tools and technologies I work with:
 ### 📫 Connect with me
 
 *   **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/olena-kirieva-099110248/)
-*   **Email:** kirieva@ukr.net
+*   **Email:** Olena.Kirieva@gmail.com
 
 ⭐️ *Thanks for visiting my profile!*
 
