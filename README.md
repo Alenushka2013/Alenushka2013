@@ -36,17 +36,8 @@ Here are the tools and technologies I work with:
 *   **LinkedIn:** [(https://www.linkedin.com/in/olena-kirieva-099110248/)]
 *   **Email:** [kirieva@ukr.net]
 
-<div align="center">
-
-  <a href="https://www.linkedin.com/in/olena-kirieva-099110248/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-
-  <a href="mailto:kirieva@ukr.net">
-    <img src="https://img.shields.io/badge/Email-kirieva%40ukr.net-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-
-</div>
+*   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&color=555&logoColor=white)](https://www.linkedin.com/in/olena-kirieva-099110248/) **LinkedIn**
+*   [![Email](https://img.shields.io/badge/-Email-black.svg?style=flat-square&logo=gmail&color=555&logoColor=white)](mailto:kirieva@ukr.net) **kirieva@ukr.net**
 
 ⭐️ *Thanks for visiting my profile!*
 
