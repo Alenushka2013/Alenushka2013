@@ -33,11 +33,8 @@ Here are the tools and technologies I work with:
 
 ### 📫 Connect with me
 
-*   **LinkedIn:** [(https://www.linkedin.com/in/olena-kirieva-099110248/)]
-*   **Email:** [kirieva@ukr.net]
-
-*   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&color=555&logoColor=white)](https://www.linkedin.com/in/olena-kirieva-099110248/) **LinkedIn**
-*   [![Email](https://img.shields.io/badge/-Email-black.svg?style=flat-square&logo=gmail&color=555&logoColor=white)](mailto:kirieva@ukr.net) **kirieva@ukr.net**
+*   **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/olena-kirieva-099110248/)
+*   **Email:** kirieva@ukr.net
 
 ⭐️ *Thanks for visiting my profile!*
 
